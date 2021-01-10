@@ -10,3 +10,4 @@
 * Mi heroe
 * Aslán
 * Peter
+* Edmund
