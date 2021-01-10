@@ -6,3 +6,4 @@
 * Se investigaron los traumas de thanos
 * Se indagó más en la vida de Joker
 * Ya se están entrenando donde Viuda negra
+* Se encontraron nuevos miembros para la liga
