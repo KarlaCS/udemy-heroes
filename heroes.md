@@ -9,3 +9,4 @@
 * Volcán Negro
 * Mi heroe
 * Aslán
+* Edmund
